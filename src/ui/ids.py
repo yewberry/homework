@@ -1,0 +1,3 @@
+from wx import ID_HIGHEST
+ID_BASE			= ID_HIGHEST + 1
+ID_BTN_GEN		= ID_BASE + 1
