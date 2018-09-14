@@ -1,7 +1,6 @@
-# PyToolset  
+# My homework  
 ========================  
-个人工具集  
-Personal toolset
+小学数学习题生成工具  
 
 #### Build
 1. run venv.sh or venv.bat

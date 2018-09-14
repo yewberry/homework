@@ -27,10 +27,10 @@ class App(wx.App):
 
 		self.cfg_path = 'cfg.json'
 		# init config file
-		cfg = Config(self.cfg_path, {
-			'version': '1.0.0',
-			'range': 10
-		}).data
+		# cfg = Config(self.cfg_path, {
+		# 	'version': '1.0.0',
+		# 	'range': 10
+		# }).data
 
 		frm = MainFrame(None, -1, _('小学数学习题工具'), size=(400, 300))
 		frm.Show()
